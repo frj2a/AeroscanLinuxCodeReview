@@ -1,2 +1,2 @@
-# AeroscanLinuxTests
-Quick tests using parts of AeroscanLinux
+# AeroscanLinuxCodeReview
+Used to convert C# to C++ using Qt's code analizer.
